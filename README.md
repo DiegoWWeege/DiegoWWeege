@@ -3,8 +3,10 @@
 💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
 
 🎯Busco sempre aprimorar minhas habilidades técnicas e socioprofissionais!
-<br>
-<br>
+
+<img align="center" alt="Donatello" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="200" />
+
+
 
 ## Ferramentas 🛠
 
@@ -14,7 +16,7 @@
  <img align="center" alt="Intellij" height = "50" width ="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />       
   <img align="center" alt="GitHub" height = "50" width ="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Git" height = "50" width ="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
-<img align="center" alt="Donatello" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="200" />
+
 </div>          
 
 <br>

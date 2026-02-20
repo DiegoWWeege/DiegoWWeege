@@ -18,7 +18,6 @@
 </div>          
 
 <br>
-<br>
 
 ## Redes sociais 🤳
 

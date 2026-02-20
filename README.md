@@ -31,4 +31,4 @@
 </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/blob/ouput/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />

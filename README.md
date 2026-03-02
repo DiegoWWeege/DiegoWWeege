@@ -1,8 +1,14 @@
-## Olá, eu sou o Diego Weege 👋
+<h1 align="center">Olá, eu sou o Diego Weege 👋</h1>
 
-💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=header" />
+</p>
+<div align = "right>
+
+ 💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
 
 🎯Busco sempre aprimorar minhas habilidades técnicas e socioprofissionais!
+</div>
 
 <img align="center" alt="Donatello" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="200" />
 
@@ -23,6 +29,7 @@
 
 ## Redes sociais 🤳
 
+
 <div>
   <a href="https://www.instagram.com/diegowweege" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo" /></a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diego_weege@estudante.sesisenai.org.br" target="_blank">
@@ -30,4 +37,19 @@
  
 </a>
 </div>
+
+<br>
+
+
+### 📊 Estatísticas e Conquistas
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoWWeege&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoWWeege&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats card" />
+</div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=footer" />
+</p>
 

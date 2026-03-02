@@ -3,15 +3,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=header" />
 </p>
-<div align = "right>
 
- 💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
+💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
 
 🎯Busco sempre aprimorar minhas habilidades técnicas e socioprofissionais!
-</div>
+
 
 <img align="center" alt="Donatello" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="200" />
-
 
 
 ## Ferramentas 🛠

@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=header" />
 </p>
 
-💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
+<h3> 💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
 
-🎯Busco sempre aprimorar minhas habilidades técnicas e socioprofissionais!
+ <h3>🎯Busco sempre aprimorar minhas habilidades técnicas e socioprofissionais!</h3>
 
 
 <img align="center" alt="Donatello" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="200" />

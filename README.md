@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Diego Weege 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6699&height=120&section=header" />
 </p>
 
 <h3> 💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!
@@ -48,6 +48,6 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6699&height=120&section=footer" />
 </p>
 

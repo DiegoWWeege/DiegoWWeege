@@ -38,16 +38,6 @@
 </div>
 
 <br>
-
-
-### 📊 Estatísticas e Conquistas
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoWWeege&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoWWeege&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats card" />
-</div>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6699&height=120&section=footer" />
 </p>

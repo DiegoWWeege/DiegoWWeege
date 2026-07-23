@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou o Diego Weege 👋</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6699&height=120&section=header" />
-</p>
+
 
 <p align = "center" >
   <img  alt="Donatello" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="20%" />
@@ -36,9 +34,4 @@
  
 </a>
 </div>
-
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6699&height=120&section=footer" />
-</p>
 

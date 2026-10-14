@@ -1,11 +1,5 @@
 <h1 align="center">Olá, eu sou o Diego Weege 👋</h1>
 
-
-
-<p align = "center" >
-  <img  alt="Donatello" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="20%" />
-</p>
-
 <h3>💻Sou aprendiz do curso de técnico em informática para internet no centro WEG!</h3>
 
 <h3>🎯Busco sempre aprimorar minhas habilidades técnicas e socioprofissionais!</h3>
